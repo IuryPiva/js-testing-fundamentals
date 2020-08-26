@@ -9,6 +9,11 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "@types/node": "^14.6.0",
+    "jest": "^24.9.0",
+    "ts-node": "^9.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.0.2"
   }
 }

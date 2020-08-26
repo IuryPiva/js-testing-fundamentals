@@ -38,6 +38,8 @@ The files are intended to test the `math` module.
 
 To run the files, run `node lessons/<lesson-filename>.js`.
 
+To run the typescript files, run `yarn ts-node ts-lessons/<lesson-filename>.ts`.
+
 > For the `global` one, run `node -r ./setup-globals.js ./lessons/globals.js`
 >
 > For the `jest.test.js` one, run `npx jest`.
